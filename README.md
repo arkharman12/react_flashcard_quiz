@@ -1,5 +1,5 @@
 # React FlashcardQuiz
-Flashcard quiz application using React while connecting to an external API. Uses fancy animations with CSS which really make this application pop.
+Flashcard quiz application using React while connecting to an external API. Uses fancy animations with CSS which really make this application pop. <br>
 [Project Link](https://flashcard-quiz.netlify.app/)
 
 ## Usage
